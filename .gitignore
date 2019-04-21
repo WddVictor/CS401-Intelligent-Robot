@@ -1,0 +1,11 @@
+### pdf ###
+*.pdf
+
+### Mac OS hidden directories ###
+.DS_Store
+
+### compressed files ###
+*.zip
+
+### temporary filse ###
+*.out
